@@ -1,13 +1,12 @@
-<h1 align="center">📝 Aplikasi Notepad 📝</h1>
+<h1 align="center">📝 App Notepad 📝</h1>
 
-<h4 align="center">Aplikasi Notepad Sederhana Dibuat Menggunakan Framework Flutter.</h4>
+<h4 align="center">App Notepad Sederhana Dibuat Menggunakan Flutter</h4>
 
-<h3>👋 Contributor:</h3>
+<h3>👥 Nama:</h3>
 
-- 🌱 Satriya Bumi Harja: **XI/PPLG-3/8**
+- Satriya Bumi Harja: **XI/PPLG-3/24**
 
-<h3>📱 Menggunakan State Management Provider</h3>
-<p>Aplikasi Notepad ini menggunakan Provider sebagai solusi manajemen state.</p>
+<h3>App ini menggunakan Provider untuk manajemen state</h3>
 
 ```dart
 import 'package:flutter/material.dart';
@@ -38,13 +37,13 @@ class NoteProvider with ChangeNotifier {
 }
 ```
 
-<h3>📷 Pictures</h3>
+<h3>📷 ScreenShot</h3>
 
 <h5>Home Page</h5>
-<img src="foto/home.png" alt="Home Page" />
+<img src="image/home.png" alt="Home Page" />
 
 <h5>Input Page</h5>
-<img src="foto/input.png" alt="Input Page" />
+<img src="image/input.png" alt="Input Page" />
 
 <h5>Notepad Page</h5>
-<img src="foto/browse.png" alt="Notepad Page" />
+<img src="image/notes.png" alt="Notepad Page" />
